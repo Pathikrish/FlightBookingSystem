@@ -6,27 +6,19 @@ The application allows passengers to register, view available flights, search fo
 🔧 Tech Stack
 
 Language: Java
-
 IDE: Eclipse
-
 
 
 💡 Key Features
 
 Passenger registration and data handling
-
 Search flights by destination or flight number
-
 Book and manage flight tickets
-
 View all available flights
-
 View user-specific bookings
-
 Simple menu-driven console interface
 
 🧠 Concepts Used
 
-Object-Oriented Programming (OOP)
-
-Collections Framework (List, Map, etc.)
+→ Object-Oriented Programming (OOP)
+→ Collections Framework (List, Map, etc.)
